@@ -33,6 +33,165 @@
     </item>
     
     <item>
+      <title>How was my first week</title>
+      <link>https://example.com/post/1_week/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/1_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Last week I did 3 laboratory work, but in fact 4, because the essence of one laboratory work was that it was necessary to rewrite the report of the previous laboratory work, and then write a report on this work.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;ve been eating deliciously all week.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;He also defended his report for maximum points. He told a monologue in English very well.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I don&amp;rsquo;t know what to write anymore, so a clipping from one of my favorite video games on russian:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Появился, значит, в Зоне Чёрный сталкер. К лагерю ночью повадился ходить и там сует руку в палатку и говорит: «Водички попить!» А если не дашь хлебнуть из фляжки или наружу полезешь — пришибет! А раз мужик один решил пошутить: вылез тихо из палатки, надел кожаную перчатку и полез к соседям в палатку. Полез, значит, и попрошайничает жалостно: «Водички, водички попить…» А тут из палатки навстречу высовывается рука и за горло его — цап! И сиплый голосок отзывается тихонько: «А тебе моя водичка зачем нужна?!&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control. Git.</title>
+      <link>https://example.com/post/version-control.-git./</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/version-control.-git./</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;About the version control system&lt;/p&gt;
+&lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
+&lt;p&gt;If you are a graphic or web designer and you want to save every version of an image or layout (most likely you will), the version control system (hereinafter referred to as SLE) — just what you need. It allows you to return files to the state they were in before the changes, return the project to its original state, see the changes, see who last changed something and caused the problem, who set the task and when, and much more. Using SLE also means in general that if you have broken something or lost files, you can safely fix everything. In addition to everything, you will get it all without any extra effort.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Local version control systems&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Many people use copying files to a separate directory as a version control method (perhaps even a directory with a time stamp, if they are smart enough). This approach is very common because of its simplicity, but it is incredibly prone to errors. You can easily forget which directory you are in and accidentally change the wrong file or copy the wrong files that you wanted.&lt;/p&gt;
+&lt;p&gt;In order to solve this problem, programmers have long ago developed local SLE with a simple database that stores records of all changes in files, thereby monitoring revisions.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1. Local version control&#34; srcset=&#34;
+               /post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_0ed8d4870a5b018cb39f38505be39448.webp 400w,
+               /post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_0de96a6d72e1228a7498fded8ce5b989.webp 760w,
+               /post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_0ed8d4870a5b018cb39f38505be39448.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;649&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+
+&lt;em&gt;Figure 1. Local version control&lt;/em&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Centralized version control systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The next major problem that people face is the need to interact with other developers. In order to deal with it, centralized version control systems (CSKA) were developed. Systems such as CVS, Subversion, and Perforce use a single server containing all versions of files, and a number of clients that receive files from this centralized repository. The use of CSKA has been the standard for many years.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2. Centralized version control&#34; srcset=&#34;
+               /post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_60f2acaee51ef1606c803a929d685a23.webp 400w,
+               /post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_b9d41468a9ebfde9114e38056a73f977.webp 760w,
+               /post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_60f2acaee51ef1606c803a929d685a23.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;528&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Figure 2. Centralized version control&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This approach has many advantages, especially over local SLE. For example, all project developers know to a certain extent what each of them is doing. Administrators have full control over who can do what, and it is much easier to administer the CSCS than to operate local databases on each client.&lt;/p&gt;
+&lt;p&gt;Despite this, this approach also has serious disadvantages. The most obvious disadvantage is a single point of failure represented by a centralized server. If this server goes down for an hour, then during this time no one will be able to use version control to save the changes they are working on, and no one will be able to share these changes with other developers. If the hard disk on which the central database is stored is damaged, and there are no timely backups, you will lose everything — the entire history of the project, not counting single repository snapshots that have been saved on local developer machines. Local SLE suffer from the same problem: when the entire project history is stored in one place, you risk losing everything.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Distributed version control systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;This is where distributed Version control systems (RSCs) come into play. In RSKV (such as Git, Mercurial, Bazaar or Darcs), clients do not just download a snapshot of all files (the state of files at a certain point in time) — they completely copy the repository. In this case, if one of the servers through which the developers exchanged data dies, any client repository can be copied to another server to continue working. Each copy of the repository is a complete backup of all data.&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3. Distributed version control&#34; srcset=&#34;
+               /post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_a3c0788cd005640bdbec2b63692172a3.webp 400w,
+               /post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_c8b5ac17e6ced08e9f31c3db3ea44837.webp 760w,
+               /post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
+               src=&#34;https://example.com/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_a3c0788cd005640bdbec2b63692172a3.webp&#34;
+               width=&#34;635&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Figure 3. Distributed version control&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Moreover, many RSCs can simultaneously interact with several remote repositories, thanks to this you can work with different groups of people using different approaches at the same time within the same project. This allows you to apply several approaches to development at once, for example, hierarchical models, which is completely impossible in centralized systems.&lt;/p&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;What is Git?&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;What is Git, in short? It is very important to understand this part of the material, because if you understand what Git is and the basics of how it works, then it may be much easier for you to use it. While you are learning Git, try to forget everything you know about other SLE, such as Subversion and Perforce. This will allow you to avoid certain problems when using the tool. Git stores and uses information quite differently compared to other systems, even though the user interface is quite similar, and understanding these differences will help you avoid confusion during use.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Snapshots, not differences&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The main difference between Git and any other SLE (including Subversion and its brethren) — this is an approach to working with your data. Conceptually, most other systems store information as a list of changes in files. These systems (CVS, Subversion, Perforce, Bazaar, etc.) represent the stored information as a set of files and changes made to each file, over time&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Almost all operations are performed locally&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For most operations in Git, local files and resources are sufficient — basically, the system does not need any information from other computers on your network. If you are used to CSKA, where most operations suffer from delays due to working with the network, then this aspect of Git will make you think that the gods of speed have endowed Git with untold power. Since the entire history of the project is stored directly on your local disk, most operations seem almost instantaneous.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Git Integrity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In Git, a hash sum is calculated for everything, and only then the saving takes place. In the future, the stored objects are accessed using this hash amount. This means that it is impossible to change the contents of a file or directory without Git knowing about it. This functionality is built into Git at a low level and is an integral part of its philosophy. You will not lose information during its transfer and will not receive a corrupted file without Git&amp;rsquo;s knowledge.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Three states&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Now listen carefully. This is the most important thing to remember about Git if you want the rest of the learning process to go smoothly. Git has three main states in which your files can be located: modified, indexed, and committed:&lt;/p&gt;
+&lt;p&gt;Modified files include files that have changed, but have not yet been committed.&lt;/p&gt;
+&lt;p&gt;Indexed is a modified file in its current version, marked for inclusion in the next commit.&lt;/p&gt;
+&lt;p&gt;Fixed means that the file has already been saved in your local database.&lt;/p&gt;
+&lt;p&gt;We have come to the three main sections of the Git project: the working copy (working tree), the indexing area (staging area) and the Git directory (Git directory).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
