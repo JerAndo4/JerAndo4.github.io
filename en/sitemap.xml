@@ -236,12 +236,4 @@
   <url>
     <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jerando4.github.io/en/tag/version-control-and-git./</loc><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://jerando4.github.io/ru/tag/version-control-and-git./"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jerando4.github.io/en/tag/version-control-and-git./"
-    /></url></urlset>
+    <loc>https://jerando4.github.io/en/tag/version-control-and-git./</loc><changefreq>weekly</changefreq></url></urlset>
