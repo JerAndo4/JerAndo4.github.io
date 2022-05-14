@@ -17,8 +17,7 @@
       <link>https://jerando4.github.io/ru/post/3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/ru/post/3-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;На третьей неделе я сделал все лабораторные работы, которые доступны на данный момент.&lt;/p&gt;
 &lt;/li&gt;
@@ -41,8 +40,7 @@
       <link>https://jerando4.github.io/ru/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/ru/post/%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D0%B8/</guid>
-      <description>&lt;h2 id=&#34;обзор&#34;&gt;&lt;strong&gt;Обзор&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;Хорошая презентация начинается с вопросов к самому себе. Самую важную часть вы можете сделать в блокноте, даже не включая компьютер. Сначала вы выбираете тему, определяете цель и распределяете аргументы в правильном порядке. И только теперь вы можете открыть программу и искать картинки для презентации.&lt;/p&gt;
+      <description>&lt;p&gt;Хорошая презентация начинается с вопросов к самому себе. Самую важную часть вы можете сделать в блокноте, даже не включая компьютер. Сначала вы выбираете тему, определяете цель и распределяете аргументы в правильном порядке. И только теперь вы можете открыть программу и искать картинки для презентации.&lt;/p&gt;
 &lt;h2 id=&#34;1-сформулируйте-тему&#34;&gt;&lt;strong&gt;1. Сформулируйте тему&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;Трудно слушать собеседника, который перескакивает с одного на другое, поэтому в презентации должна быть только одна тема. В противном случае это будет долгая история ни о чем. Тема должна быть достаточно узкой, чтобы в конце предложить решение проблемы. Сужайте тему до тех пор, пока презентация не сможет быть представлена в десяти коротких абзацах.&lt;/p&gt;
 &lt;p&gt;Легко определить хорошую тему — она подсказывает структуру самой речи.&lt;/p&gt;
@@ -86,107 +84,11 @@
     </item>
     
     <item>
-      <title>Markdown language</title>
-      <link>https://jerando4.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://jerando4.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;what-does-it-mean&#34;&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;The &amp;ldquo;markup language&amp;rdquo; is just a set of conventions, rules.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s say that you communicate with a friend by SMS. You can&amp;rsquo;t make the text bold or slanted in them. You agree with a friend: if I write * something* so between the asterisks, then consider it an oblique text. And if I write ** something ** between two asterisks, then consider it a bold text. You came up with the rules.&lt;/p&gt;
-&lt;p&gt;Markdown is a set of similar rules.&lt;/p&gt;
-&lt;h2 id=&#34;why-is-this-necessary&#34;&gt;&lt;strong&gt;Why is this necessary?&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;For more convenient writing of texts for subsequent conversion to HTML or other formats.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;markdown-syntax&#34;&gt;&lt;strong&gt;Markdown syntax&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;This is a quick reference of the basic elements of the Markdown syntax. There is no single standard and different versions of Markdown may differ in details. But the basic elements from the list below are supported in all standards.&lt;/p&gt;
-&lt;h4 id=&#34;text-selection&#34;&gt;&lt;strong&gt;Text Selection&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;*&lt;em&gt;This text will be slanted (italics)&lt;/em&gt;  *&lt;/p&gt;
-&lt;p&gt;_ &lt;em&gt;This text will be slanted (italics)&lt;/em&gt; _&lt;/p&gt;
-&lt;p&gt;** &lt;strong&gt;This text will be bold&lt;/strong&gt; **&lt;/p&gt;
-&lt;p&gt;__ &lt;strong&gt;This text will be bold&lt;/strong&gt; __&lt;/p&gt;
-&lt;p&gt;_ &lt;em&gt;It is possible to ** &lt;strong&gt;insert&lt;/strong&gt; ** one type into another&lt;/em&gt; _&lt;/p&gt;
-&lt;h4 id=&#34;headings&#34;&gt;&lt;strong&gt;Headings&lt;/strong&gt;&lt;/h4&gt;
-&lt;pre&gt;&lt;code&gt;#This is the largest header, it turns into a &amp;lt;h1&amp;gt; tag
-
-##&amp;lt;h2&amp;gt;
-
-###&amp;lt;h3&amp;gt;
-
-####&amp;lt;h4&amp;gt;
-
-#####&amp;lt;h5&amp;gt;
-
-######&amp;lt;h6&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;
-&lt;h4 id=&#34;links&#34;&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt; — the text of a simple link will become a clickable link automatically&lt;/p&gt;
-&lt;p&gt;Any text can be made a link:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is a link to GitHub&lt;/a&gt;&lt;/p&gt;
-&lt;h4 id=&#34;quote&#34;&gt;&lt;strong&gt;Quote&lt;/strong&gt;&lt;/h4&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(&amp;gt;)This is a wise quote&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;(&amp;gt;)A wise man.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Write without brackets!!!&lt;/p&gt;
-&lt;h4 id=&#34;lists&#34;&gt;&lt;strong&gt;Lists&lt;/strong&gt;&lt;/h4&gt;
-&lt;p&gt;An unnumbered list:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Item (*)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;One more point (*)&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;Sub-item (Tab + *)&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;One more sub-item (Tab + *)&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Write without brackets and before paragraphs!!!&lt;/p&gt;
-&lt;p&gt;For sub-items, use TAB&lt;/p&gt;
-&lt;h4 id=&#34;numbered-list&#34;&gt;&lt;strong&gt;Numbered list:&lt;/strong&gt;&lt;/h4&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Item&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;One more point&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Sub-item&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;One more sub-item&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;For sub-items, use TAB&lt;/p&gt;
-&lt;p&gt;You can use any numbers in the numbered list — it doesn&amp;rsquo;t matter. When converted to HTML or another format, the numbers will become correct and consistent (1, 2, 3, etc.).&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Как прошла моя вторая неделя</title>
       <link>https://jerando4.github.io/ru/post/2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/ru/post/2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;обзор&#34;&gt;Обзор&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;На второй неделе я сделал все лабораторные работы, которые доступны на данный момент.&lt;/p&gt;
 &lt;/li&gt;
@@ -205,12 +107,105 @@
     </item>
     
     <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://jerando4.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://jerando4.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <description>&lt;p&gt;&lt;em&gt;Markdown - это язык разметки текстов. Такие тексты легко писать и читать. Они могут быть легко преобразованы в HTML. Большинство программистов предпочитают Markdown для написания документации, описания своих проектов, ведения блогов и так далее.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;что-это-значит&#34;&gt;&lt;strong&gt;Что это значит?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&amp;ldquo;Язык разметки&amp;rdquo; - это всего лишь набор соглашений, правил.&lt;/p&gt;
+&lt;p&gt;Допустим, вы общаетесь с другом по SMS. Вы не можете сделать текст в них жирным или наклонным. Вы согласны с другом: если я напишу &lt;em&gt;что-то&lt;/em&gt; так между звездочками, то считайте это наклонным текстом. И если я напишу ** что-то ** между двумя звездочками, то считайте это жирным шрифтом. Ты придумал правила.&lt;/p&gt;
+&lt;p&gt;Markdown - это набор аналогичных правил.&lt;/p&gt;
+&lt;h2 id=&#34;почему-это-необходимо&#34;&gt;&lt;strong&gt;Почему это необходимо?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Добавить разметку в тех местах, где реальная разметка невозможна. Например, в простом текстовом файле или в том же SMS, где невозможно выделить жирным шрифтом, создать заголовки, выделить кавычки и т.д.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Для более удобного написания текстов для последующего преобразования в HTML или другие форматы.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;синтаксис-markdown&#34;&gt;&lt;strong&gt;Синтаксис Markdown&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Это краткое описание основных элементов синтаксиса Markdown. Единого стандарта не существует, и разные версии Markdown могут отличаться в деталях. Но основные элементы из приведенного ниже списка поддерживаются во всех стандартах.&lt;/p&gt;
+&lt;h4 id=&#34;выделение-текста&#34;&gt;&lt;strong&gt;Выделение текста&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;*&lt;em&gt;Этот текст будет выделен наклонным шрифтом (курсивом).&lt;/em&gt;  *&lt;/p&gt;
+&lt;p&gt;_ &lt;em&gt;Этот текст будет выделен наклонным шрифтом (курсивом)&lt;/em&gt; _&lt;/p&gt;
+&lt;p&gt;** &lt;strong&gt;Этот текст будет выделен жирным шрифтом&lt;/strong&gt; **&lt;/p&gt;
+&lt;p&gt;__ &lt;strong&gt;This text will be bold&lt;/strong&gt; __&lt;/p&gt;
+&lt;p&gt;_ &lt;em&gt;Можно  ** &lt;strong&gt;вставить&lt;/strong&gt; ** один тип в другой&lt;/em&gt; _&lt;/p&gt;
+&lt;h4 id=&#34;заголовки&#34;&gt;&lt;strong&gt;Заголовки&lt;/strong&gt;&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;#Это самый большой заголовок, он превращается в тег &amp;lt;h1&amp;gt;
+
+##&amp;lt;h2&amp;gt;
+
+###&amp;lt;h3&amp;gt;
+
+####&amp;lt;h4&amp;gt;
+
+#####&amp;lt;h5&amp;gt;
+
+######&amp;lt;h6&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;ссылки&#34;&gt;&lt;strong&gt;Ссылки&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt; — текст простой ссылки автоматически станет кликабельной ссылкой&lt;/p&gt;
+&lt;p&gt;Любой текст можно сделать ссылкой:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Это ссылка на GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;цитата&#34;&gt;&lt;strong&gt;Цитата&lt;/strong&gt;&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(&amp;gt;)Это мудрая цитата&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(&amp;gt;)Мудрый человек.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Пишите без скобок!!!&lt;/p&gt;
+&lt;h4 id=&#34;списки&#34;&gt;&lt;strong&gt;Списки&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Ненумерованный список:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Пункт (*)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Еще один пункт (*)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Подпункт  (Tab + *)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Еще один подпункт (Tab + *)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Пишите без скобок и перед абзацами!!!&lt;/p&gt;
+&lt;p&gt;Для подпунктов используйте TAB&lt;/p&gt;
+&lt;h4 id=&#34;нумерованный-список&#34;&gt;&lt;strong&gt;Нумерованный список:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Пункт&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Еще один момент&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Подпункт&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Еще один подпункт&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Для подпунктов используйте TAB&lt;/p&gt;
+&lt;p&gt;Вы можете использовать любые цифры в нумерованном списке — это не имеет значения. При преобразовании в HTML или другой формат числа станут правильными и последовательными (1, 2, 3 и т.д.).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Как прошла моя первая неделя</title>
       <link>https://jerando4.github.io/ru/post/1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/ru/post/1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;обзор&#34;&gt;&lt;strong&gt;Обзор&lt;/strong&gt;&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;На прошлой неделе я сделал 3 лабораторные работы, а на самом деле 4, потому что суть одной лабораторной работы заключалась в том, что нужно было переписать отчет о предыдущей лабораторной работе, а затем написать отчет по этой работе.&lt;/p&gt;
 &lt;/li&gt;
