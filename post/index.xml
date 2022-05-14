@@ -5,12 +5,85 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Create a presentation</title>
+      <link>https://example.com/post/create-a-presentation/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/create-a-presentation/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;A good presentation begins with questions to yourself. The most important part you can do in notepad, even without turning on the computer. First, you choose a topic, define a goal, and distribute the arguments in the right order. And only now you can open the program and search for pictures for the presentation.&lt;/p&gt;
+&lt;h2 id=&#34;1-formulate-a-topic&#34;&gt;&lt;strong&gt;1. Formulate a topic&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;It is difficult to listen to the interlocutor who jumps from one to another, so the presentation should have only one topic. Otherwise, it will be a long story about nothing. The topic should be narrow enough to offer a solution to the problem at the end. Narrow down the topic until the presentation cannot be presented in ten short paragraphs.&lt;/p&gt;
+&lt;p&gt;It is easy to identify a good topic — it suggests the structure of the speech itself.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;A broad topic, thought jumps&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Public appearances&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;What is public speaking&lt;/p&gt;
+&lt;p&gt;When we speak publicly&lt;/p&gt;
+&lt;p&gt;How to prepare&lt;/p&gt;
+&lt;p&gt;How to work with an audience&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;A narrow topic, the story pours&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;How to cope with the fear of public speaking&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Why are we afraid&lt;/p&gt;
+&lt;p&gt;How to stop being afraid&lt;/p&gt;
+&lt;p&gt;What to do if you perform for the first time&lt;/p&gt;
+&lt;h2 id=&#34;2-define-the-goal&#34;&gt;&lt;strong&gt;2. Define the goal&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;A good presentation changes the current picture of the world. For example, people are starting to take more care of the environment or are running for a new smartphone. The goal does not have to be ambitious, the main thing is specific.&lt;/p&gt;
+&lt;p&gt;A good presentation goal starts with a question: what I want to change in the behavior of listeners.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Abstract goal&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s good to perform&lt;/p&gt;
+&lt;p&gt;Sell the product&lt;/p&gt;
+&lt;p&gt;Show that the product is good&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Specific purpose&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Convince that the new model consumes 20% less gasoline&lt;/p&gt;
+&lt;p&gt;Prove that sales are falling, but that&amp;rsquo;s OK&lt;/p&gt;
+&lt;p&gt;Convince the owners to take their animals to the annual vaccination&lt;/p&gt;
+&lt;h2 id=&#34;3-think-over-the-scenario&#34;&gt;&lt;strong&gt;3. Think over the scenario&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The purpose of the presentation is what you want to change in the listener&amp;rsquo;s head, and the script is how you will come to these changes.&lt;/p&gt;
+&lt;p&gt;Imagine that you are making up a story. The listener should be intrigued, come up with an interesting hero, lead him through difficulties to a successful ending. This is the basic structure of any text and presentation. Fairy tales, movie scripts and product advertisements are based on such a structure&lt;/p&gt;
+&lt;h2 id=&#34;4-rule-of-thirds&#34;&gt;&lt;strong&gt;4. Rule of thirds&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This rule of creating presentations helps to arrange objects on the slide so that the eye immediately highlights the most important. Divide the slide into thirds lengthwise and across. Place significant objects at intersections. Significant objects are titles and illustrations.&lt;/p&gt;
+&lt;h2 id=&#34;5-the-texts-are-shorter&#34;&gt;&lt;strong&gt;5. The texts are shorter&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;One slide is one thought. This slide is easy to read and remember. If you speak publicly, it will keep the audience&amp;rsquo;s attention. Exactly how much text will be on the slide depends on the size of the audience. If a person is reading a presentation on the screen, a paragraph of text will not frighten him. If you are speaking in front of an audience of a hundred people, it will be difficult to read more than ten words on the slide.&lt;/p&gt;
+&lt;h2 id=&#34;6-add-images&#34;&gt;&lt;strong&gt;6. Add images&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;Photos and icons help to reveal the content, but should not replace it. If you find a beautiful photo &amp;ldquo;in the subject&amp;rdquo; that does not help to reveal the idea, do not use it.&lt;/p&gt;
+&lt;p&gt;You can use any numbers in the numbered list — it doesn&amp;rsquo;t matter. When converted to HTML or another format, the numbers will become correct and consistent (1, 2, 3, etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>How was my third week</title>
+      <link>https://example.com/post/3_week/</link>
+      <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/3_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;In the third week, I did all the labs that are available at the moment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;ve been eating deliciously all week.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;RI learned to write programs in Python.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I don&amp;rsquo;t know what to write anymore, so a clipping from one of my favorite video games on russian:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;&amp;quot;— Зло — это зло, Стрегобор, — серьёзно сказал ведьмак, вставая. — Меньшее, бо́льшее, среднее — всё едино, пропорции условны, а границы размыты. Я не святой отшельник, не только одно добро творил в жизни. Но если приходится выбирать между одним злом и другим, я предпочитаю не выбирать вообще. — «Последнее желание», рассказ «Меньшее зло»&amp;quot;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>How was my second week</title>
