@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Version Control and Git. | Academic</title>
-    <link>https://example.com/en/tag/version-control-and-git./</link>
-      <atom:link href="https://example.com/en/tag/version-control-and-git./index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jerando4.github.io/en/tag/version-control-and-git./</link>
+      <atom:link href="https://jerando4.github.io/en/tag/version-control-and-git./index.xml" rel="self" type="application/rss+xml" />
     <description>Version Control and Git.</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jerando4.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Version Control and Git.</title>
-      <link>https://example.com/en/tag/version-control-and-git./</link>
+      <link>https://jerando4.github.io/en/tag/version-control-and-git./</link>
     </image>
     
     <item>
       <title>Version control. Git.</title>
-      <link>https://example.com/en/post/version-control.-git./</link>
+      <link>https://jerando4.github.io/en/post/version-control.-git./</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/version-control.-git./</guid>
+      <guid>https://jerando4.github.io/en/post/version-control.-git./</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -52,7 +52,7 @@
                /en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp 400w,
                /en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_0de96a6d72e1228a7498fded8ce5b989.webp 760w,
                /en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp&#34;
+               src=&#34;https://jerando4.github.io/en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -85,7 +85,7 @@
                /en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp 400w,
                /en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_b9d41468a9ebfde9114e38056a73f977.webp 760w,
                /en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp&#34;
+               src=&#34;https://jerando4.github.io/en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -120,7 +120,7 @@
                /en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp 400w,
                /en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_c8b5ac17e6ced08e9f31c3db3ea44837.webp 760w,
                /en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp&#34;
+               src=&#34;https://jerando4.github.io/en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

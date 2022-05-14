@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/en/post/</link>
-      <atom:link href="https://example.com/en/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jerando4.github.io/en/post/</link>
+      <atom:link href="https://jerando4.github.io/en/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jerando4.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/en/post/</link>
+      <link>https://jerando4.github.io/en/post/</link>
     </image>
     
     <item>
       <title>Create a presentation</title>
-      <link>https://example.com/en/post/create-a-presentation/</link>
+      <link>https://jerando4.github.io/en/post/create-a-presentation/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/create-a-presentation/</guid>
+      <guid>https://jerando4.github.io/en/post/create-a-presentation/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;A good presentation begins with questions to yourself. The most important part you can do in notepad, even without turning on the computer. First, you choose a topic, define a goal, and distribute the arguments in the right order. And only now you can open the program and search for pictures for the presentation.&lt;/p&gt;
 &lt;h2 id=&#34;1-formulate-a-topic&#34;&gt;&lt;strong&gt;1. Formulate a topic&lt;/strong&gt;&lt;/h2&gt;
@@ -63,9 +63,9 @@
     
     <item>
       <title>How was my third week</title>
-      <link>https://example.com/en/post/3_week/</link>
+      <link>https://jerando4.github.io/en/post/3_week/</link>
       <pubDate>Sat, 14 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/3_week/</guid>
+      <guid>https://jerando4.github.io/en/post/3_week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -87,9 +87,9 @@
     
     <item>
       <title>How was my second week</title>
-      <link>https://example.com/en/post/2_week/</link>
+      <link>https://jerando4.github.io/en/post/2_week/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/2_week/</guid>
+      <guid>https://jerando4.github.io/en/post/2_week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -111,9 +111,9 @@
     
     <item>
       <title>Markdown language</title>
-      <link>https://example.com/en/post/markdown-language/</link>
+      <link>https://jerando4.github.io/en/post/markdown-language/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/markdown-language/</guid>
+      <guid>https://jerando4.github.io/en/post/markdown-language/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-does-it-mean&#34;&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/h2&gt;
@@ -206,9 +206,9 @@
     
     <item>
       <title>How was my first week</title>
-      <link>https://example.com/en/post/1_week/</link>
+      <link>https://jerando4.github.io/en/post/1_week/</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/1_week/</guid>
+      <guid>https://jerando4.github.io/en/post/1_week/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -230,9 +230,9 @@
     
     <item>
       <title>Version control. Git.</title>
-      <link>https://example.com/en/post/version-control.-git./</link>
+      <link>https://jerando4.github.io/en/post/version-control.-git./</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/version-control.-git./</guid>
+      <guid>https://jerando4.github.io/en/post/version-control.-git./</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -268,7 +268,7 @@
                /en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp 400w,
                /en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_0de96a6d72e1228a7498fded8ce5b989.webp 760w,
                /en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp&#34;
+               src=&#34;https://jerando4.github.io/en/post/version-control.-git./local_hufcb633eabb4ce248b64f5422c2c69f5a_20255_20822e8017c177cf18983f1a44f65d06.webp&#34;
                width=&#34;760&#34;
                height=&#34;649&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -301,7 +301,7 @@
                /en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp 400w,
                /en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_b9d41468a9ebfde9114e38056a73f977.webp 760w,
                /en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp&#34;
+               src=&#34;https://jerando4.github.io/en/post/version-control.-git./centralized_hu74fb508a0af33a33fa0f541a94378552_22810_f93c80165d69b5e8aac99f5f188e2113.webp&#34;
                width=&#34;760&#34;
                height=&#34;528&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -336,7 +336,7 @@
                /en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp 400w,
                /en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_c8b5ac17e6ced08e9f31c3db3ea44837.webp 760w,
                /en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp&#34;
+               src=&#34;https://jerando4.github.io/en/post/version-control.-git./distributed_hu7dff96406965f7bb87732a216019226c_26657_7cc702330d2d251a91f6efbc3ed41fb7.webp&#34;
                width=&#34;635&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

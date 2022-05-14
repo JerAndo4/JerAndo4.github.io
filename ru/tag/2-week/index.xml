@@ -2,45 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 week | Academic</title>
-    <link>https://example.com/ru/tag/2-week/</link>
-      <atom:link href="https://example.com/ru/tag/2-week/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jerando4.github.io/ru/tag/2-week/</link>
+      <atom:link href="https://jerando4.github.io/ru/tag/2-week/index.xml" rel="self" type="application/rss+xml" />
     <description>2 week</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://jerando4.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>2 week</title>
-      <link>https://example.com/ru/tag/2-week/</link>
+      <link>https://jerando4.github.io/ru/tag/2-week/</link>
     </image>
     
     <item>
-      <title>How was my second week</title>
-      <link>https://example.com/ru/post/2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</link>
-      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/2-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;In the second week, I did all the labs that are available at the moment.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I&amp;rsquo;ve been eating deliciously all week.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Remembered the basics of the C++ programming language&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;I don&amp;rsquo;t know what to write anymore, so a clipping from one of my favorite video games on russian:&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;&lt;em&gt;&amp;ldquo;Говорят, моё место среди богов. Неправда. Я возвышаюсь над ними.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Markdown language</title>
-      <link>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
+      <link>https://jerando4.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
+      <guid>https://jerando4.github.io/ru/post/%D1%8F%D0%B7%D1%8B%D0%BA-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%82%D0%BA%D0%B8-markdown/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;em&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-does-it-mean&#34;&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/h2&gt;
