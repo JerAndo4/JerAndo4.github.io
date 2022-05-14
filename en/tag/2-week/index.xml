@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 week | Academic</title>
+    <link>https://example.com/en/tag/2-week/</link>
+      <atom:link href="https://example.com/en/tag/2-week/index.xml" rel="self" type="application/rss+xml" />
+    <description>2 week</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>2 week</title>
+      <link>https://example.com/en/tag/2-week/</link>
+    </image>
+    
+    <item>
+      <title>How was my second week</title>
+      <link>https://example.com/en/post/2_week/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/2_week/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;In the second week, I did all the labs that are available at the moment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I&amp;rsquo;ve been eating deliciously all week.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Remembered the basics of the C++ programming language&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I don&amp;rsquo;t know what to write anymore, so a clipping from one of my favorite video games on russian:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;&amp;ldquo;Говорят, моё место среди богов. Неправда. Я возвышаюсь над ними.&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown language</title>
+      <link>https://example.com/en/post/markdown-language/</link>
+      <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/en/post/markdown-language/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-does-it-mean&#34;&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;The &amp;ldquo;markup language&amp;rdquo; is just a set of conventions, rules.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s say that you communicate with a friend by SMS. You can&amp;rsquo;t make the text bold or slanted in them. You agree with a friend: if I write * something* so between the asterisks, then consider it an oblique text. And if I write ** something ** between two asterisks, then consider it a bold text. You came up with the rules.&lt;/p&gt;
+&lt;p&gt;Markdown is a set of similar rules.&lt;/p&gt;
+&lt;h2 id=&#34;why-is-this-necessary&#34;&gt;&lt;strong&gt;Why is this necessary?&lt;/strong&gt;&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;To add markup to places where real markup is not possible. For example, in a simple text file or in the same SMS, where it is impossible to highlight bold, create titles, highlight quotes, etc.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;For more convenient writing of texts for subsequent conversion to HTML or other formats.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;markdown-syntax&#34;&gt;&lt;strong&gt;Markdown syntax&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;This is a quick reference of the basic elements of the Markdown syntax. There is no single standard and different versions of Markdown may differ in details. But the basic elements from the list below are supported in all standards.&lt;/p&gt;
+&lt;h4 id=&#34;text-selection&#34;&gt;&lt;strong&gt;Text Selection&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;*&lt;em&gt;This text will be slanted (italics)&lt;/em&gt;  *&lt;/p&gt;
+&lt;p&gt;_ &lt;em&gt;This text will be slanted (italics)&lt;/em&gt; _&lt;/p&gt;
+&lt;p&gt;** &lt;strong&gt;This text will be bold&lt;/strong&gt; **&lt;/p&gt;
+&lt;p&gt;__ &lt;strong&gt;This text will be bold&lt;/strong&gt; __&lt;/p&gt;
+&lt;p&gt;_ &lt;em&gt;It is possible to ** &lt;strong&gt;insert&lt;/strong&gt; ** one type into another&lt;/em&gt; _&lt;/p&gt;
+&lt;h4 id=&#34;headings&#34;&gt;&lt;strong&gt;Headings&lt;/strong&gt;&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;#This is the largest header, it turns into a &amp;lt;h1&amp;gt; tag
+
+##&amp;lt;h2&amp;gt;
+
+###&amp;lt;h3&amp;gt;
+
+####&amp;lt;h4&amp;gt;
+
+#####&amp;lt;h5&amp;gt;
+
+######&amp;lt;h6&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;links&#34;&gt;&lt;strong&gt;Links&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com&lt;/a&gt; — the text of a simple link will become a clickable link automatically&lt;/p&gt;
+&lt;p&gt;Any text can be made a link:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;This is a link to GitHub&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;quote&#34;&gt;&lt;strong&gt;Quote&lt;/strong&gt;&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(&amp;gt;)This is a wise quote&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(&amp;gt;)A wise man.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Write without brackets!!!&lt;/p&gt;
+&lt;h4 id=&#34;lists&#34;&gt;&lt;strong&gt;Lists&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;An unnumbered list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Item (*)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One more point (*)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Sub-item (Tab + *)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One more sub-item (Tab + *)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Write without brackets and before paragraphs!!!&lt;/p&gt;
+&lt;p&gt;For sub-items, use TAB&lt;/p&gt;
+&lt;h4 id=&#34;numbered-list&#34;&gt;&lt;strong&gt;Numbered list:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Item&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One more point&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Sub-item&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;One more sub-item&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;For sub-items, use TAB&lt;/p&gt;
+&lt;p&gt;You can use any numbers in the numbered list — it doesn&amp;rsquo;t matter. When converted to HTML or another format, the numbers will become correct and consistent (1, 2, 3, etc.).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
