@@ -34,7 +34,7 @@
       href="https://jerando4.github.io/en/event/"
     /></url>
   <url>
-    <loc></loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="ru"
       href=""
@@ -42,6 +42,54 @@
       rel="alternate"
       hreflang="en"
       href=""
+    /></url>
+  <url>
+    <loc>https://jerando4.github.io/en/tag/4-week/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jerando4.github.io/en/categories/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://jerando4.github.io/ru/categories/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jerando4.github.io/en/categories/"
+    /></url>
+  <url>
+    <loc>https://jerando4.github.io/en/post/4_week/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href=""
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href=""
+    /></url>
+  <url>
+    <loc>https://jerando4.github.io/en/category/post-4/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jerando4.github.io/en/post/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://jerando4.github.io/ru/post/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jerando4.github.io/en/post/"
+    /></url>
+  <url>
+    <loc>https://jerando4.github.io/en/post/scientific-programming-languages/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jerando4.github.io/en/tags/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://jerando4.github.io/ru/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jerando4.github.io/en/tags/"
     /></url>
   <url>
     <loc>https://jerando4.github.io/en/tag/3-week/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
@@ -66,41 +114,11 @@
       href="https://jerando4.github.io/en/project/c&#43;&#43;/"
     /></url>
   <url>
-    <loc>https://jerando4.github.io/en/categories/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://jerando4.github.io/ru/categories/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jerando4.github.io/en/categories/"
-    /></url>
-  <url>
     <loc>https://jerando4.github.io/en/post/create-a-presentation/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jerando4.github.io/en/post/3_week/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href=""
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href=""
-    /></url>
-  <url>
     <loc>https://jerando4.github.io/en/category/post-3/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://jerando4.github.io/en/post/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://jerando4.github.io/ru/post/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jerando4.github.io/en/post/"
-    /></url>
   <url>
     <loc>https://jerando4.github.io/en/project/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
@@ -130,16 +148,6 @@
       rel="alternate"
       hreflang="en"
       href="https://jerando4.github.io/en/project/python/"
-    /></url>
-  <url>
-    <loc>https://jerando4.github.io/en/tags/</loc><lastmod>2022-05-14T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://jerando4.github.io/ru/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jerando4.github.io/en/tags/"
     /></url>
   <url>
     <loc>https://jerando4.github.io/en/tag/2-week/</loc><lastmod>2022-05-08T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
