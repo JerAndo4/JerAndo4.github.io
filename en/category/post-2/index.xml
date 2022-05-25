@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>post 2 | Academic</title>
+    <title>post 2 | Nikita S. Karmatskiy</title>
     <link>https://jerando4.github.io/en/category/post-2/</link>
       <atom:link href="https://jerando4.github.io/en/category/post-2/index.xml" rel="self" type="application/rss+xml" />
     <description>post 2</description>
@@ -17,8 +17,7 @@
       <link>https://jerando4.github.io/en/post/2_week/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/en/post/2_week/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;In the second week, I did all the labs that are available at the moment.&lt;/p&gt;
 &lt;/li&gt;
@@ -41,8 +40,7 @@
       <link>https://jerando4.github.io/en/post/markdown-language/</link>
       <pubDate>Sun, 08 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/en/post/markdown-language/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;&lt;em&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/em&gt;&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Markdown is a markup language for texts. Such texts are easy to write and read. They can be easily converted to HTML. Most programmers prefer Markdown for writing documentation, describing their projects, writing blogs, and so on.&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-does-it-mean&#34;&gt;&lt;strong&gt;What does it mean?&lt;/strong&gt;&lt;/h2&gt;
 &lt;p&gt;The &amp;ldquo;markup language&amp;rdquo; is just a set of conventions, rules.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s say that you communicate with a friend by SMS. You can&amp;rsquo;t make the text bold or slanted in them. You agree with a friend: if I write * something* so between the asterisks, then consider it an oblique text. And if I write ** something ** between two asterisks, then consider it a bold text. You came up with the rules.&lt;/p&gt;
@@ -136,8 +134,7 @@
       <link>https://jerando4.github.io/en/post/version-control.-git./</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/en/post/version-control.-git./</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;About the version control system&lt;/p&gt;
 &lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;

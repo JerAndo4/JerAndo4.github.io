@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>4 week | Academic</title>
+    <title>4 week | Nikita S. Karmatskiy</title>
     <link>https://jerando4.github.io/en/tag/4-week/</link>
       <atom:link href="https://jerando4.github.io/en/tag/4-week/index.xml" rel="self" type="application/rss+xml" />
     <description>4 week</description>
@@ -17,8 +17,7 @@
       <link>https://jerando4.github.io/en/post/4_week/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/en/post/4_week/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;In the fourth week, I did all the labs that are available at the moment.&lt;/p&gt;
 &lt;/li&gt;
@@ -38,8 +37,7 @@
       <link>https://jerando4.github.io/en/post/scientific-programming-languages/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/en/post/scientific-programming-languages/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;&lt;strong&gt;Overview&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;There are at least 2 programming languages:&lt;/p&gt;
+      <description>&lt;p&gt;There are at least 2 programming languages:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Julia programming language&lt;/p&gt;

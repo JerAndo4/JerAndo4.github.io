@@ -4,16 +4,6 @@
   
   
   <url>
-    <loc>https://jerando4.github.io/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://jerando4.github.io/en/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://jerando4.github.io/ru/"
-    /></url>
-  <url>
     <loc>https://jerando4.github.io/ru/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -22,6 +12,16 @@
       rel="alternate"
       hreflang="ru"
       href="https://jerando4.github.io/ru/event/"
+    /></url>
+  <url>
+    <loc>https://jerando4.github.io/ru/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jerando4.github.io/en/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://jerando4.github.io/ru/"
     /></url>
   <url>
     <loc>https://jerando4.github.io/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B8-%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
@@ -34,7 +34,7 @@
       href="https://jerando4.github.io/ru/talk/%D0%BF%D1%80%D0%B8%D0%BC%D0%B5%D1%80%D0%BD%D1%8B%D0%B8-%D1%80%D0%B0%D0%B7%D0%B3%D0%BE%D0%B2%D0%BE%D1%80/"
     /></url>
   <url>
-    <loc></loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href=""
@@ -44,9 +44,9 @@
       href=""
     /></url>
   <url>
-    <loc>https://jerando4.github.io/ru/tag/4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://jerando4.github.io/ru/tag/5-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://jerando4.github.io/ru/categories/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://jerando4.github.io/ru/categories/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://jerando4.github.io/en/categories/"
@@ -56,7 +56,7 @@
       href="https://jerando4.github.io/ru/categories/"
     /></url>
   <url>
-    <loc>https://jerando4.github.io/ru/post/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://jerando4.github.io/ru/post/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://jerando4.github.io/en/post/"
@@ -66,7 +66,7 @@
       href="https://jerando4.github.io/ru/post/"
     /></url>
   <url>
-    <loc>https://jerando4.github.io/ru/tags/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://jerando4.github.io/ru/tags/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://jerando4.github.io/en/tags/"
@@ -76,9 +76,9 @@
       href="https://jerando4.github.io/ru/tags/"
     /></url>
   <url>
-    <loc>https://jerando4.github.io/ru/post/4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://jerando4.github.io/ru/post/5-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc></loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href=""
@@ -87,6 +87,14 @@
       hreflang="ru"
       href=""
     /></url>
+  <url>
+    <loc>https://jerando4.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-5/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jerando4.github.io/ru/post/%D1%84%D0%B0%D0%B8%D0%BB%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B8c%D1%82%D0%B5%D0%BC%D0%B0-fat/</loc><lastmod>2022-05-25T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jerando4.github.io/ru/tag/4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://jerando4.github.io/ru/post/4-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8F/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://jerando4.github.io/ru/category/%D0%BF%D0%BE%D1%81%D1%82-4/</loc><lastmod>2022-05-19T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>

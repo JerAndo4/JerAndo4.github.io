@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Version Control and Git. | Academic</title>
+    <title>Version Control and Git. | Nikita S. Karmatskiy</title>
     <link>https://jerando4.github.io/en/tag/version-control-and-git./</link>
       <atom:link href="https://jerando4.github.io/en/tag/version-control-and-git./index.xml" rel="self" type="application/rss+xml" />
     <description>Version Control and Git.</description>
@@ -17,8 +17,7 @@
       <link>https://jerando4.github.io/en/post/version-control.-git./</link>
       <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
       <guid>https://jerando4.github.io/en/post/version-control.-git./</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;ol&gt;
+      <description>&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;About the version control system&lt;/p&gt;
 &lt;p&gt;What is a &amp;ldquo;version control system&amp;rdquo; and why is it important? A version control system is a system that records changes to a file or set of files over time and allows you to return later to a specific version. For file version control, this book will use the source code of the software as an example, although in fact you can use version control for almost any type of file.&lt;/p&gt;
