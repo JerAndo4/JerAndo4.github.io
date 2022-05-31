@@ -226,6 +226,16 @@
       href="https://jerando4.github.io/ru/publication-type/1/"
     /></url>
   <url>
+    <loc>https://jerando4.github.io/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://jerando4.github.io/en/publication/example/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://jerando4.github.io/ru/publication/example/"
+    /></url>
+  <url>
     <loc>https://jerando4.github.io/ru/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
@@ -246,14 +256,12 @@
       href="https://jerando4.github.io/ru/publication/"
     /></url>
   <url>
-    <loc>https://jerando4.github.io/ru/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://jerando4.github.io/en/publication/example/"
+      href=""
     /><xhtml:link
       rel="alternate"
       hreflang="ru"
-      href="https://jerando4.github.io/ru/publication/example/"
-    /></url>
-  <url>
-    <loc>https://jerando4.github.io/ru/publication/example2/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url></urlset>
+      href=""
+    /></url></urlset>
